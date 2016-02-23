@@ -4,7 +4,7 @@
  <title>@ctshryock</title>
  <link href="http://ctshryock.com/atom.xml" rel="self"/>
  <link href="http://ctshryock.com/"/>
- <updated>2016-02-23T05:14:03-06:00</updated>
+ <updated>2016-02-23T09:29:47-06:00</updated>
  <id>http://ctshryock.com/</id>
  <author>
    <name>Clint Shryock (@ctshryock)</name>
@@ -12,80 +12,16 @@
  </author>
  
     
- 
-    
      <entry>
-       <title>Using Zend Tool :: posts</title>
-       <link href="http://ctshryock.com/posts/2009/10/12/setting-up-zend-tool.html"/>
-       <updated>2009-10-12T18:41:15-05:00</updated>
-       <id>http://ctshryock.com/posts/2009/10/12/setting-up-zend-tool</id>
-       <content type="html">&lt;p&gt;&lt;a href=&quot;http://framework.zend.com/wiki/display/ZFDEV/Zend+Tool+Initiative&quot; title=&quot;Zend Tool Initiative&quot;&gt;Zend Tool&lt;/a&gt; is a powerful command-line script to help generate Zend Framework &amp;quot;units&amp;quot; as I call them, from the complete initial application structure to controllers, or actions in controllers that already exist.  &lt;/p&gt;
-
-&lt;p&gt;Though released a the incubator a few versions back, I&amp;#39;ve found it to be more stable and easier to setup just recently.  Fortunately I just did a clean install and lost my setup of Zend Tool, giving me the chance to blog about it here.&lt;/p&gt;
-
-&lt;p&gt;I first learned how to setup Zend Tool with &lt;a href=&quot;http://devzone.zend.com/article/3811&quot; title=&quot;Using Zend_Tool to start up your ZF Project&quot;&gt;this guide&lt;/a&gt;.  It details at least two ways to get Zend Tool running, plus some instructions for Windows users.  My instructions will be for Mac OS X (but should work for most Unix-like systems) and for development purposes only.  &lt;/p&gt;
-
-&lt;h2&gt;Getting Zend Framework&lt;/h2&gt;
-
-&lt;p&gt;First step is getting the framework.  Zend Tool requires the Zend Framework be in your &lt;code&gt;php.ini&lt;/code&gt;&amp;#39;s &lt;code&gt;include_path&lt;/code&gt;, so you need to obtain the source.  The Zend Framework source is available for public checkout via subversion, and since you&amp;#39;re developer, we&amp;#39;ll go that route.  Personally, I like to checkout a release tag and not a trunk, that way I can incrementally update from tag to tag instead of just updating from the trunk.  Either should work.  I use my user&amp;#39;s &lt;code&gt;Sites&lt;/code&gt; folder for all my development work so I&amp;#39;m going to check it out there.&lt;/p&gt;
+       <title>Test Post :: posts</title>
+       <link href="http://ctshryock.com/posts/2016/02/23/test-post.html"/>
+       <updated>2016-02-23T06:34:56-06:00</updated>
+       <id>http://ctshryock.com/posts/2016/02/23/test-post</id>
+       <content type="html">&lt;p&gt;Test Post&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;svn co http://framework.zend.com/svn/framework/standard/tags/release-1.9.4 ZendFramework&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;It&amp;#39;s not small, depending on your network, this could take awhile...&lt;/p&gt;
-
-&lt;p&gt;Once that&amp;#39;s finished &lt;code&gt;cd&lt;/code&gt; into the &lt;code&gt;ZendFramework&lt;/code&gt; dir and the core library is in &lt;code&gt;library/Zend&lt;/code&gt;, with the Zend Tool scripts in &lt;code&gt;bin/&lt;/code&gt;.  &lt;/p&gt;
-
-&lt;h2&gt;Add Zend Framework to your Include Path&lt;/h2&gt;
-
-&lt;p&gt;Second step is to add the the contents of the &lt;code&gt;Zend&lt;/code&gt; folder to you include path.  I&amp;#39;m using &lt;a href=&quot;http://www.macports.org/&quot; title=&quot;MacPorts&quot;&gt;Macports&lt;/a&gt; so &lt;code&gt;php.ini&lt;/code&gt; file is located in  &lt;code&gt;/opt/local/etc/php5/&lt;/code&gt;.  By default the includes path was commented out and looked like this:&lt;br&gt;
-    ;include_path = &amp;quot;.:/php/includes&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;Change that to uncomment it and add the &lt;code&gt;library&lt;/code&gt; folder of your checkout&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;include_path = &amp;quot;.:/php/includes:/Users/clint/Sites/ZendFramework/library&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Setting up the script&lt;/h2&gt;
-
-&lt;p&gt;The &lt;code&gt;bin&lt;/code&gt; folder comes with 3 scripts, a shell script &lt;code&gt;zf.sh&lt;/code&gt;, bat script for Windows users &lt;code&gt;zf.bat&lt;/code&gt;, and a php script that they both use &lt;code&gt;zf.php&lt;/code&gt;.  &lt;code&gt;zf.sh&lt;/code&gt; is the script I&amp;#39;ll be using and we need it on our system &lt;code&gt;PATH&lt;/code&gt;, which I&amp;#39;m going to do via symbolic link&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;sudo ln -s ~/Sites/ZendFramework/bin/zf.sh /usr/bin/zf
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Using Zend Tool&lt;/h2&gt;
-
-&lt;p&gt;Check to see if Zend Tool is working by typing &lt;code&gt;zf&lt;/code&gt; into the command-line:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ctshryock.com/static/images/output-thumb-500x104-5.jpg&quot; width=&quot;500&quot; height=&quot;104&quot; alt=&quot;output.jpg&quot;  style=&quot;text-align: center; display: block; margin: 0 auto 20px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The first thing you&amp;#39;ll see is an error, since we didn&amp;#39;t supply the correct number of arguments, but following that you&amp;#39;ll get usage instructions for all the options of Zend Tool.  &lt;/p&gt;
-
-&lt;p&gt;Now lets create a project by switching to your local server&amp;#39;s document root and running :&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;zf create project test-app
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Now take a look around at what was made by opening &lt;code&gt;test-app&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ctshryock.com/static/images/test-app-structure-thumb-200x135-8.jpg&quot; width=&quot;200&quot; height=&quot;135&quot; alt=&quot;test-app-structure.jpg&quot;  style=&quot;text-align: center; display: block; margin: 0 auto 20px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;and view it on the web: &lt;a href=&quot;http://localhost/test-app/public&quot; title=&quot;Test app on your local server&quot;&gt;http://localhost/test-app/public&lt;/a&gt;.  You should get the default homepage setup of a Zend Framework Application:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ctshryock.com/static/images/home-thumb-200x130-11.jpg&quot; width=&quot;200&quot; height=&quot;130&quot; alt=&quot;home.jpg&quot;  style=&quot;text-align: center; display: block; margin: 0 auto 20px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Zend Tool can do more than just create the project structure, so lets create a controller and an additional action.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;cd test&lt;/span&gt;-app
-&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt;   zf create controller tool&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;You can see that Zend Tool created a controller named &lt;code&gt;ToolController&lt;/code&gt; and added view scripts for you under &lt;code&gt;views/scripts/tool/&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ctshryock.com/static/images/tool-controller-thumb-200x110-14.jpg&quot; width=&quot;200&quot; height=&quot;110&quot; alt=&quot;tool-controller.jpg&quot;  style=&quot;text-align: center; display: block; margin: 0 auto 20px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You can see the default text for that script here: &lt;a href=&quot;http://localhost/test-app/public/tool&quot; title=&quot;Tool Controller&quot;&gt;http://localhost/test-app/public/tool&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Now lets create an action.  Zend Tool&amp;#39;s &lt;code&gt;create action&lt;/code&gt; method takes requires a controller name as the second arguement; if you don&amp;#39;t specify one, it will assume you want to use the &lt;code&gt;Index&lt;/code&gt; Controller.  &lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;zf create action example tool
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Your results should be like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ctshryock.com/static/images/tool-example-action-thumb-200x119-17.jpg&quot; width=&quot;200&quot; height=&quot;119&quot; alt=&quot;tool-example-action.jpg&quot;  style=&quot;text-align: center; display: block; margin: 0 auto 20px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There are other options and methods in Zend Tool; if you&amp;#39;ve made this far and understand, you can figure them out &lt;/p&gt;
+&lt;p&gt;End Test Post&lt;/p&gt;
 </content>
      </entry>
     

@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Test Post
+date: 2016-02-23 12:34:56
+category: posts
+---
+
+Test Post
+
+{% highlight bash %}
+svn co http://framework.zend.com/svn/framework/standard/tags/release-1.9.4 ZendFramework
+{% endhighlight %}
+
+End Test Post

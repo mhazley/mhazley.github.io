@@ -11,7 +11,7 @@ server "ctshryock.com", :app, :web, :db, :primary => true                       
 
 
 set :title, ENV['title'] if ENV['title']
-set :category,       ENV['cat'] ? ENV['cat'] : 'post' 
+set :category,       ENV['cat'] ? ENV['cat'] : 'post'
 
 namespace :deploy do
 end
@@ -23,7 +23,7 @@ namespace :post do
   task :default do
     create_post
   end
-  
+
 end
 
 def create_post
@@ -40,11 +40,11 @@ def create_header
   header << "title: \"#{post_title}\"\n"
   if web_error
     header << "image: \n"
-    header << "alt: \n" 
-    header << "note: \n" 
+    header << "alt: \n"
+    header << "note: \n"
   end
   header << "category: #{get_category}"
-  header << "---\n" 
+  header << "---\n"
   header
 end
 
@@ -63,7 +63,7 @@ end
 def post_layout
   if category =~ /web-error/
     'web-error'
-  else 
+  else
     'post'
   end
 end
@@ -78,7 +78,7 @@ end
 
 def get_category
   if web_error
-    "#{web_error.gsub('/', '')}\n" 
+    "#{web_error.gsub('/', '')}\n"
   else
     "posts\n"
   end
