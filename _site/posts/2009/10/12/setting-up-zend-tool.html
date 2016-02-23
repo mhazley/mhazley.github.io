@@ -1,0 +1,163 @@
+<!doctype html>
+<html>
+    <head>
+        <title>@matthazley
+            
+                | Using Zend Tool
+            
+        </title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="author" content="Clint Shryock" />
+        <meta name="viewport" content="width=device-width" />
+        <link rel="stylesheet" href="/static/bootstrap.min.css" type="text/css" media="screen" title="Twitter Bootstrap" charset="utf-8">
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/static/syntax.css">
+
+    </head>
+    <body onload="setupZoom()">
+        <div id="stylistic-bar-of-awesome">&nbsp;</div>
+        <div id="wrapper" class="container">
+            <div class="row">
+    <div class="span13">
+      <div class="span9">
+         <h2> Using Zend Tool </h2>
+        <p><a href="http://framework.zend.com/wiki/display/ZFDEV/Zend+Tool+Initiative" title="Zend Tool Initiative">Zend Tool</a> is a powerful command-line script to help generate Zend Framework &quot;units&quot; as I call them, from the complete initial application structure to controllers, or actions in controllers that already exist.  </p>
+
+<p>Though released a the incubator a few versions back, I&#39;ve found it to be more stable and easier to setup just recently.  Fortunately I just did a clean install and lost my setup of Zend Tool, giving me the chance to blog about it here.</p>
+
+<p>I first learned how to setup Zend Tool with <a href="http://devzone.zend.com/article/3811" title="Using Zend_Tool to start up your ZF Project">this guide</a>.  It details at least two ways to get Zend Tool running, plus some instructions for Windows users.  My instructions will be for Mac OS X (but should work for most Unix-like systems) and for development purposes only.  </p>
+
+<h2>Getting Zend Framework</h2>
+
+<p>First step is getting the framework.  Zend Tool requires the Zend Framework be in your <code>php.ini</code>&#39;s <code>include_path</code>, so you need to obtain the source.  The Zend Framework source is available for public checkout via subversion, and since you&#39;re developer, we&#39;ll go that route.  Personally, I like to checkout a release tag and not a trunk, that way I can incrementally update from tag to tag instead of just updating from the trunk.  Either should work.  I use my user&#39;s <code>Sites</code> folder for all my development work so I&#39;m going to check it out there.</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">svn co http://framework.zend.com/svn/framework/standard/tags/release-1.9.4 ZendFramework</code></pre></div>
+
+<p>It&#39;s not small, depending on your network, this could take awhile...</p>
+
+<p>Once that&#39;s finished <code>cd</code> into the <code>ZendFramework</code> dir and the core library is in <code>library/Zend</code>, with the Zend Tool scripts in <code>bin/</code>.  </p>
+
+<h2>Add Zend Framework to your Include Path</h2>
+
+<p>Second step is to add the the contents of the <code>Zend</code> folder to you include path.  I&#39;m using <a href="http://www.macports.org/" title="MacPorts">Macports</a> so <code>php.ini</code> file is located in  <code>/opt/local/etc/php5/</code>.  By default the includes path was commented out and looked like this:<br>
+    ;include_path = &quot;.:/php/includes&quot;</p>
+
+<p>Change that to uncomment it and add the <code>library</code> folder of your checkout</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">include_path = &quot;.:/php/includes:/Users/clint/Sites/ZendFramework/library&quot;
+</code></pre></div>
+<h2>Setting up the script</h2>
+
+<p>The <code>bin</code> folder comes with 3 scripts, a shell script <code>zf.sh</code>, bat script for Windows users <code>zf.bat</code>, and a php script that they both use <code>zf.php</code>.  <code>zf.sh</code> is the script I&#39;ll be using and we need it on our system <code>PATH</code>, which I&#39;m going to do via symbolic link</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">sudo ln -s ~/Sites/ZendFramework/bin/zf.sh /usr/bin/zf
+</code></pre></div>
+<h2>Using Zend Tool</h2>
+
+<p>Check to see if Zend Tool is working by typing <code>zf</code> into the command-line:</p>
+
+<p><img src="http://ctshryock.com/static/images/output-thumb-500x104-5.jpg" width="500" height="104" alt="output.jpg"  style="text-align: center; display: block; margin: 0 auto 20px;" /></p>
+
+<p>The first thing you&#39;ll see is an error, since we didn&#39;t supply the correct number of arguments, but following that you&#39;ll get usage instructions for all the options of Zend Tool.  </p>
+
+<p>Now lets create a project by switching to your local server&#39;s document root and running :</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">zf create project test-app
+</code></pre></div>
+<p>Now take a look around at what was made by opening <code>test-app</code></p>
+
+<p><img src="http://ctshryock.com/static/images/test-app-structure-thumb-200x135-8.jpg" width="200" height="135" alt="test-app-structure.jpg"  style="text-align: center; display: block; margin: 0 auto 20px;" /></p>
+
+<p>and view it on the web: <a href="http://localhost/test-app/public" title="Test app on your local server">http://localhost/test-app/public</a>.  You should get the default homepage setup of a Zend Framework Application:</p>
+
+<p><img src="http://ctshryock.com/static/images/home-thumb-200x130-11.jpg" width="200" height="130" alt="home.jpg"  style="text-align: center; display: block; margin: 0 auto 20px;" /></p>
+
+<p>Zend Tool can do more than just create the project structure, so lets create a controller and an additional action.</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="lineno">1</span> <span class="nb">cd test</span>-app
+<span class="lineno">2</span>   zf create controller tool</code></pre></div>
+
+<p>You can see that Zend Tool created a controller named <code>ToolController</code> and added view scripts for you under <code>views/scripts/tool/</code></p>
+
+<p><img src="http://ctshryock.com/static/images/tool-controller-thumb-200x110-14.jpg" width="200" height="110" alt="tool-controller.jpg"  style="text-align: center; display: block; margin: 0 auto 20px;" /></p>
+
+<p>You can see the default text for that script here: <a href="http://localhost/test-app/public/tool" title="Tool Controller">http://localhost/test-app/public/tool</a></p>
+
+<p>Now lets create an action.  Zend Tool&#39;s <code>create action</code> method takes requires a controller name as the second arguement; if you don&#39;t specify one, it will assume you want to use the <code>Index</code> Controller.  </p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">zf create action example tool
+</code></pre></div>
+<p>Your results should be like this:</p>
+
+<p><img src="http://ctshryock.com/static/images/tool-example-action-thumb-200x119-17.jpg" width="200" height="119" alt="tool-example-action.jpg"  style="text-align: center; display: block; margin: 0 auto 20px;" /></p>
+
+<p>There are other options and methods in Zend Tool; if you&#39;ve made this far and understand, you can figure them out </p>
+
+
+<div id="related">
+  <h2>Related Posts</h2>
+  <ul class="posts">
+    
+      <li><span>12 Oct 2009</span> &raquo; <a href="/posts/2009/10/12/setting-up-zend-tool.html">Using Zend Tool</a></li>
+    
+      <li><span>12 Jul 2012</span> &raquo; <a href="/posts/2012/07/12/running-rails-with-puma-on-heroku.html">Running Rails with Puma on Heroku</a></li>
+    
+      <li><span>21 Feb 2011</span> &raquo; <a href="/posts/2011/02/21/more-gearman.html">Gearman (Part 2): Create jobs, add workers, do work</a></li>
+    
+  </ul>
+</div>
+
+      </div>
+      <div class="span2">
+          <h2><a href="/">@matthazley</a></h2>
+          <ul class="unstyled archive">
+              <li><a href="/about.html" title="About">About</a></li>
+              <li><a href="/archive.html" title="Archive">Archive</a><a class="feed" href="http://feeds.feedburner.com/ctshryock">&nbsp;</a></li>
+              <li><a href="/projects.html" title="Projects">Projects</a></li>
+              <li><a href="/web-errors.html">Web Errors</a><a class="feed" rel="alternate" href="http://feeds.feedburner.com/ctshryockWebErrors">&nbsp;</a></li>
+              <li><a href="https://github.com/catsby" title="catsby on Github.com" target="_blank">Github<span class="external-link" title="external link">&#x279A;</span></a></li>
+              <li><a href="https://twitter.com/ctshryock" title="ctshryock on Twitter.com" target="_blank">Twitter<span class="external-link" title="external link">&#x279A;</span></a></li>
+          </ul>
+
+          
+          <div class="about span4">
+            <h2>About</h2>
+            My name is Clint Shryock.  I develop things in Go and Ruby.
+            I live in central Missouri, where the weather is beautiful 4 months of the year.
+          </div>
+          
++-----------------+<br />
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ﾉ^_^)ﾉ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />
+|&nbsp;&nbsp; ☜(ﾟヮﾟ☜)&nbsp;&nbsp;&nbsp;&nbsp;|<br />
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;౿(ఠ_ఠఎ)&nbsp;&nbsp;&nbsp;&nbsp;|<br />
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ಠ_ಠ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br />
+x&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x<br />
+&nbsp;&nbsp;xxx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xxx<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xx&nbsp;&nbsp;&nbsp;&nbsp;xx<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xx<br />
+
+      </div>
+    </div>
+  </div>
+
+        </div>
+        <script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-5272456-2']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+
+        <script type="text/javascript" src="/static/js/jquery-1.6.1.min.js"></script>
+
+        <!-- FancyZoom from @cabel http://www.cabel.name/2008/02/fancyzoom-10.html -->
+        <script src="/static/js-global/FancyZoom.js" type="text/javascript"></script>
+        <script src="/static/js-global/FancyZoomHTML.js" type="text/javascript"></script>
+    </body>
