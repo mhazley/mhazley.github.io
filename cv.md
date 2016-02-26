@@ -34,6 +34,7 @@ My degree explored such things as telecommunications, hardware/software co- desi
 **Technologies**
 
 - TCP/UDP 
+- CoAP / M2M
 - RF Coding/Decoding
 - SPI / I2C
 - RTOS
