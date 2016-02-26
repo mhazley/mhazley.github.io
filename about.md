@@ -11,14 +11,15 @@ I am a highly motivated and creative Firmware Engineer with a proven record of s
 
 I like to code in C and C++ and am comfortable scripting in Python. 
 
-I am comfortable working in a range of environments: 
+I have experience working in a range of environments: 
 
  - 8 & 16 bit MCU's (SI Labs 8051/ and Freescale S12X especially)
- - GCC and Make in Linux or OS X
- - Comfortable with Git and SVN
+ - GCC/GDB and Make in Linux / OS X
+ - Particle's Photon Platform (Cortex M3 core)
+ - Git and SVN
 
 I've worked on a number of different projects ranging from low power industrial sensing systems, to MISRA complient automotive sensors, to low latency network middlewares, to beer brewing robots. 
 
-I am also somewhat proficient in electronic design and PCB manufacturing processes.
+I am also somewhat proficient in electronic design and PCB design/manufacturing processes.
 
-In my (limited) spare time, I like to present radio, make podcasts and brew beer. 
+In my spare time, I like to present radio, make podcasts and brew beer. 
