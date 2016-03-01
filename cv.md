@@ -78,7 +78,8 @@ I am currently employed as the Firmware Lead in the development team at Brewbot.
 
 I was employed twice within the R&D department of Sensata, working on firmware for a range of new products and conceptual designs.
 
-- Designed and developed firmware for numerous automotive and industrial sensors • Designed various Communications Protocols and MCU Boot Loaders
+- Designed and developed firmware for numerous automotive and industrial sensors, mainly based around SiLabs' 8051 MCUs
+- Designed various Communications Protocols and MCU Boot Loaders
 - Application development on C++ ( Qt ) to interface with sensors
 - Large amount of technical Customer interaction (presentations/onsite visits)
 
