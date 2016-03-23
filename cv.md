@@ -14,6 +14,10 @@ My degree explored such things as telecommunications, hardware/software co- desi
 
 **Thesis**: *‘Investigation into Trust and Reputation Metrics for Open 802.11 Networks’*
 
+This was a project that attempted to investigate trust and reputation within the ubiquitous WLAN by first understanding how malicious users can present themselves on the network. A packet capture tool was then developed in C to promiscuously capture power values from frames transmitted from APs and then attempted to develop a trust metric.
+
+Grab the report in PDF form here.
+
 **Awards**
 
 - OpenFX Award for Engineering Software Design
