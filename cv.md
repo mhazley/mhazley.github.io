@@ -28,6 +28,7 @@ This was a project that attempted to investigate trust and reputation within the
 
 - OS X
 - Linux
+- Windows
 
 **Programming Languages**
 
