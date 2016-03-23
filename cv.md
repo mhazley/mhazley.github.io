@@ -62,7 +62,7 @@ My degree explored such things as telecommunications, hardware/software co- desi
 
 I am currently employed as the Firmware Lead in the development team at Brewbot. We develop on the Particle Photon (STM32 ARM) platform and my duties include:
 
-- Development and testing of all new Firmware features, written in C++.~~~~
+- Development and testing of all new Firmware features, written in C++.
 - Full brew automation
 - Sensor interfacing (Temperature, Volume, Flow etc)
 - Communications protocols to devices and cloud (CoAP / UDP / Multicast)
@@ -78,7 +78,7 @@ I am currently employed as the Firmware Lead in the development team at Brewbot.
 
 I was employed twice within the R&D department of Sensata, working on firmware for a range of new products and conceptual designs.
 
-- Designed and developed firmware for numerous automotive and industrial sensors, mainly based around SiLabs' 8051 MCUs
+- Designed and developed firmware for numerous automotive and industrial sensors, mainly based around SiLabs' 8051 MCUs and written in C.
 - Designed various Communications Protocols and MCU Boot Loaders
 - Application development on C++ ( Qt ) to interface with sensors
 - Large amount of technical Customer interaction (presentations/onsite visits)
