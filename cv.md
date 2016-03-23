@@ -16,7 +16,7 @@ My degree explored such things as telecommunications, hardware/software co- desi
 
 This was a project that attempted to investigate trust and reputation within the ubiquitous WLAN by first understanding how malicious users can present themselves on the network. A packet capture tool was then developed in C to promiscuously capture power values from frames transmitted from APs and then attempted to develop a trust metric.
 
-Grab the report in PDF form here.
+[Grab the report as a PDF here](https://github.com/mhazley/mhazley.github.io/raw/b79511ef997bc669016a6d7875cdb560bfc6da8f/files/Investigation_of_Trust_and_Reputation_Metrics_for_802_11_Hot_Points.pdf).
 
 **Awards**
 
