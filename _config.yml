@@ -1,4 +1,4 @@
-highlighter: pygments
+highlighter: rouge
 markdown: redcarpet
 exclude: ['swag', 'd.diff', 'Capfile', 'config', 'public', 'Gemfile', 'Gemfile.lock', 'README.md']
 relative_permalinks: false
