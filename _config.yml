@@ -1,5 +1,5 @@
 highlighter: rouge
-markdown: redcarpet
+markdown: kramdown
 exclude: ['swag', 'd.diff', 'Capfile', 'config', 'public', 'Gemfile', 'Gemfile.lock', 'README.md']
 relative_permalinks: false
 timezone: America/Chicago
