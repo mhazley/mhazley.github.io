@@ -63,9 +63,9 @@ This was a project that attempted to investigate trust and reputation within the
 ### Employment
 
 **Brewbot, Firmware Lead**
-**July 2015 &mdash; Present**
+**July 2015 &mdash; August 2016**
 
-I am currently employed as the Firmware Lead in the development team at Brewbot. We develop on the Particle Photon (STM32 ARM) platform and my duties include:
+I was employed as the Firmware Lead in the development team at Brewbot. We developed on the Particle Photon (STM32 ARM Cortex M3) platform and my duties included:
 
 - Development and testing of all new Firmware features, written in C++.
 - Full brew automation
@@ -107,6 +107,6 @@ I was employed as a member of the NYSE Technologies Platform Team specialising p
 Internship during gap year at University. Worked in the innovation centre alongside Intel Technologists on highly creative projects based around WiMAX, the “Digital Divide” and IPTV.
 
 ### Contact 
-*[matthazley at gmail dot com](mailto:matthazley@gmail.com)*
+*[hello@matthazley.com](mailto:hello@matthazley.com)*
 
 
