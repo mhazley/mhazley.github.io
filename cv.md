@@ -26,9 +26,9 @@ This was a project that attempted to investigate trust and reputation within the
 ### Toolbox
 **Operating Systems**  
 
-- OS X
 - Linux
 - Windows
+- OS X
 
 **Programming Languages**
 
@@ -38,11 +38,13 @@ This was a project that attempted to investigate trust and reputation within the
 
 **Technologies**
 
-- TCP/UDP 
+- TCP/UDP
 - CoAP / M2M
 - RF Coding/Decoding
+- UART
 - SPI / I2C
 - RTOS
+- Protocol Design
 - Digital Signal Processing
 - Low Power Design
 - Boot-Loader Design
@@ -57,10 +59,19 @@ This was a project that attempted to investigate trust and reputation within the
 - Logic Analyser
 - Spectrum Analyser
 - SVN/Git
+- IAR Embedded Workbench
 - Valgrind
 - GCC/GDB
+- Qt
 
 ### Employment
+
+**Dyson, Firmware Engineer**
+**Sept 2016 &mdash; present**
+
+I am currently employed as a low level firmware engineer at Dyson, working within the robotics team, turning new ideas into production ready products.
+
+---
 
 **Brewbot, Firmware Lead**
 **July 2015 &mdash; August 2016**
@@ -106,7 +117,5 @@ I was employed as a member of the NYSE Technologies Platform Team specialising p
 
 Internship during gap year at University. Worked in the innovation centre alongside Intel Technologists on highly creative projects based around WiMAX, the “Digital Divide” and IPTV.
 
-### Contact 
+### Contact
 *[hello@matthazley.com](mailto:hello@matthazley.com)*
-
-

@@ -31,3 +31,6 @@ redcarpet:
     - strikethrough
     - fenced_code_blocks
     - footnotes
+
+collections:
+  photo_gallery:
