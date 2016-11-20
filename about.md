@@ -13,8 +13,8 @@ I like to code in C and C++ and am comfortable scripting in Python.
 
 I have experience working in a range of environments:
 
- - 8 & 16 bit MCU's (SI Labs 8051/ and Freescale S12X especially)
- - GCC/GDB and Make in Linux / OS X
+ - 8, 16 & 32 bit MCU's (SI Labs 8051/Freescale S12X/ARM Cortex M3)
+ - IAR Embedded Workbench on Windows & GCC/GDB and Make in Linux / OS X
  - Particle's Photon Platform (Cortex M3 core)
  - Git and SVN
 
