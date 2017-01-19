@@ -21,7 +21,7 @@ This was a project that attempted to investigate trust and reputation within the
 **Awards**
 
 - OpenFX Award for Engineering Software Design
-- Irish Student Enterprise Award
+- Irish Student Enterprise Award for Final Year 'Start-Up'
 
 ### Toolbox
 **Operating Systems**  
@@ -36,86 +36,40 @@ This was a project that attempted to investigate trust and reputation within the
 - C++
 - Python
 
-**Technologies**
+**Technologies / Concepts**
 
 - TCP/UDP
-- CoAP / M2M
 - RF Coding/Decoding
-- UART
-- SPI / I2C
-- RTOS
-- Protocol Design
-- Digital Signal Processing
-- Low Power Design
+- UART / SPI / I2C
+- RTOS (µC, FreeRTOS)
+- Communication Protocol Design & Implementation
+- CoAP / M2M
+- Low Power / Constrained Design
 - Boot-Loader Design
 - Multi-Threaded Design
+- Digital Signal Processing
 - Agile/SCRUM
 
 **Tools**
 
+- SVN/Git
+- IAR Embedded Workbench
+- Qt / PyQt
+- Valgrind
+- GCC/GDB
+- Unity / Ceedling / CMock
+- Putty
+- Advanced Serial Port Monitor
+- Wireshark / AirPCAP
 - Impedance Analyser
 - Arbitrary Waveform Generator
 - Oscilloscopes
 - Logic Analyser
 - Spectrum Analyser
-- SVN/Git
-- IAR Embedded Workbench
-- Valgrind
-- GCC/GDB
-- Qt
+- Soldering Iron
 
-### Employment
-
-**Dyson, Firmware Engineer**
-**Sept 2016 &mdash; present**
-
-I am currently employed as a low level firmware engineer at Dyson, working within the robotics team, turning new ideas into production ready products.
-
----
-
-**Brewbot, Firmware Lead**
-**July 2015 &mdash; August 2016**
-
-I was employed as the Firmware Lead in the development team at Brewbot. We developed on the Particle Photon (STM32 ARM Cortex M3) platform and my duties included:
-
-- Development and testing of all new Firmware features, written in C++.
-- Full brew automation
-- Sensor interfacing (Temperature, Volume, Flow etc)
-- Communications protocols to devices and cloud (CoAP / UDP / Multicast)
-- Maintaining build system
-- HW Development support
-- Firmware team management and milestone planning  
-
----
-
-**Sensata, Embedded Software Engineer**
-**March 2014 &mdash; July 2015** &
-**August 2009 &mdash; December 2012**
-
-I was employed twice within the R&D department of Sensata, working on firmware for a range of new products and conceptual designs.
-
-- Designed and developed firmware for numerous automotive and industrial sensors, mainly based around SiLabs' 8051 MCUs and written in C.
-- Designed various Communications Protocols and MCU Boot Loaders
-- Application development on C++ ( Qt ) to interface with sensors
-- Large amount of technical Customer interaction (presentations/onsite visits)
-
----
-
-**NYSE Technologies, Software Engineer**
-**January 2013 &mdash; March 2014**
-
-I was employed as a member of the NYSE Technologies Platform Team specialising primarily in development of a high performance, low latency, multithreaded messaging middleware, written in C, for Linux. My main duties were:
-
-- Implement robust, production ready C code for regular patches & new features - Manage Data Fabric server lab
-- Manage and triage Customer issues/questions/expectations
-- Develop numerous tools to assist both support, development and QA
-
----
-
-**Intel, Innovation Centre Intern**
-**June 2006 &mdash; May 2007**
-
-Internship during gap year at University. Worked in the innovation centre alongside Intel Technologists on highly creative projects based around WiMAX, the “Digital Divide” and IPTV.
 
 ### Contact
 *[hello@matthazley.com](mailto:hello@matthazley.com)*
+
+References available upon request.
