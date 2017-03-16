@@ -1,0 +1,1612 @@
+Strathroy Dairies Ltd
+2.0
+59527.48
+
+Moneymore Heritage Trust
+1.0
+19708.85
+
+Glencroft Developments Ltd
+3.0
+128851.01
+
+B P Mc Keefry Ltd
+1.0
+34067.13
+
+Baronscourt Energy Ltd
+2.0
+29986.97
+
+Legmore Farms Ltd
+4.0
+293496.26
+
+PM Processing Ltd
+2.0
+123980.5
+
+Crann Energy Ltd
+1.0
+65453.82
+
+Manfreight Ltd
+1.0
+5168.61
+
+Merit Retail Ltd T/A Cottage Care Home
+1.0
+38477.19
+
+Caledon Estate Company
+1.0
+37363.29
+
+Silverwood Enterprise Limited
+3.0
+86957.58
+
+Stanley Livingstone Ltd
+4.0
+127069.94
+
+D&O Poultry Ltd.
+1.0
+7889.7
+
+Fermanagh Properties Ltd
+2.0
+77033.78
+
+Erwin Agri-Care Limited
+1.0
+30708.97
+
+Eglinton (Timber Products) Ltd
+7.0
+538885.63
+
+FBT Mushrooms Ltd
+1.0
+20773.27
+
+Copper Industries (Ireland) Ltd
+1.0
+27369.46
+
+Kilbracks Farm Ltd
+4.0
+191723.95
+
+MCD Engineering Ltd
+1.0
+44134.73
+
+Unicorn Containers Limited
+2.0
+105790.17
+
+Highgate Poultry Ltd
+1.0
+18143.2
+
+Green Biomass Ltd
+2.0
+196804.93
+
+Heatabrix Limited
+6.0
+239050.17
+
+Antrim Estates Company
+1.0
+11958.15
+
+Damiraco Ltd
+1.0
+64016.5
+
+Blakely McCartney Ltd
+1.0
+26127.86
+
+Broughshane Medical Practice
+1.0
+6630.37
+
+Culmore Energy Ltd
+2.0
+29240.91
+
+Mullinmore Poultry Ltd
+2.0
+55142.63
+
+Milestone Rathfriland Ltd
+2.0
+37184.35
+
+Massereene Golf Club
+1.0
+20069.56
+
+NMC Haulage Ltd
+3.0
+84025.26
+
+Macklin Care Homes Ltd
+1.0
+47826.42
+
+Shelbourne Motors Ltd
+4.0
+84815.3
+
+Greenacres Chicks Ltd
+2.0
+88203.2
+
+Ballindarragh Poultry Farm Ltd
+6.0
+432282.88
+
+Ranaghan Poultry LLP
+2.0
+93517.17
+
+MMS NI Ltd
+2.0
+30692.55
+
+DJC Poultry Ltd
+2.0
+80691.94
+
+MK Surface Treatment Ltd
+2.0
+60904.78
+
+Kilsannagh Mushrooms Ltd
+1.0
+43222.36
+
+Dunleath Estates Ltd
+1.0
+28185.77
+
+Cash Hill Farm Ltd
+1.0
+5561.82
+
+K Hughes And Co Ltd
+1.0
+17128.54
+
+Slatequarry Farms Ltd
+2.0
+19598.58
+
+Department of Agriculture and Rural Development (Enniskillen College)
+1.0
+11583.97
+
+John McElderry (M&T) Ltd
+2.0
+40073.78
+
+Tri Met Engineering Ltd
+3.0
+19343.68
+
+St James of Jerusalem Mullaghbrack
+1.0
+5748.38
+
+F.P. McCann Ltd.
+2.0
+46569.52
+
+Ballinderry Parish Church Hall
+1.0
+7128.37
+
+McGeary Metals Ltd T/ A Portaquip
+1.0
+8008.54
+
+Patterson Caravans Ltd
+1.0
+7294.25
+
+The Ryandale Inn (Moy) Ltd
+1.0
+22535.3
+
+Henry Sinnamon Ltd
+3.0
+165135.22
+
+Ballynakilly Ltd
+5.0
+210386.1
+
+B-Cam Poultry Ltd.
+1.0
+8806.74
+
+Manor House Country Hotel Ltd
+3.0
+41773.6
+
+Caldwell Steel Ltd
+1.0
+15049.94
+
+AWF Poultry Ltd
+2.0
+33278.6
+
+Warmflow Engineering Co Ltd
+6.0
+102382.17
+
+The Tilery Ltd
+1.0
+15455.02
+
+Inish Glow Ltd
+3.0
+169049.03
+
+National Trust (Innisfee)
+1.0
+22766.5
+
+Rockmount Enterprises Ltd
+1.0
+27588.17
+
+Peninsula Print & Design Ltd
+1.0
+27239.49
+
+Oakra Hardwood Flooring Ltd
+1.0
+5012.98
+
+McCaffrey Aggregates Ltd
+10.0
+396647.94
+
+DRT (NI) Limited T/A Derry Refrigerated Transport
+1.0
+7423.34
+
+Brooklands Healthcare Ltd
+2.0
+102881.56
+
+BSD Training Ltd
+1.0
+21059.85
+
+McGrane Nurseries Ltd
+4.0
+35789.74
+
+Capper Trading Ltd
+2.0
+80048.66
+
+MP Poultry Ltd
+3.0
+234159.54
+
+Prodrive Ireland LTD
+3.0
+44020.1
+
+Corliss Eco Fuels Ltd
+1.0
+33135.71
+
+Westville Hotel Limited
+1.0
+33136.21
+
+Acheson & Glover Precast Ltd
+7.0
+302210.94
+
+Lower Corr Poultry Farm Ltd
+2.0
+96921.07
+
+An Charraig Mhor GFC
+1.0
+14880.24
+
+Mosshill Services Ltd
+2.0
+8110.92
+
+D Armstrong Electrical LLP
+1.0
+40126.83
+
+JC Donald Ltd
+1.0
+52394.99
+
+IJ Property Development Ltd T/A IJ Property & Trading Co
+3.0
+107197.51
+
+R&S Biomass Equipment Ltd
+2.0
+24440.75
+
+Craigfad Farm Limited
+2.0
+10249.93
+
+Michael Nugent Ltd
+2.0
+46244.37
+
+Camphill Community Clanabogan
+1.0
+15408.47
+
+Peacock Farms Poultry Ltd
+5.0
+274717.12
+
+Moy Park Ltd
+2.0
+18141.63
+
+Slemish Barn Ltd
+1.0
+7375.26
+
+Spa Nursing Homes Ltd
+3.0
+83368.95
+
+Morrow Contracts Ltd
+1.0
+56876.0
+
+Brantry Church
+1.0
+15291.6
+
+DK Leisure Ltd
+1.0
+25467.06
+
+Mallaghan Engineering Limited
+8.0
+173181.42
+
+Embroidery NI Ltd
+1.0
+8000.71
+
+Armagh Business Park Ltd
+1.0
+30909.58
+
+Bedeck Ltd
+4.0
+100354.21
+
+Sperrin Switchgear Ltd
+1.0
+12103.29
+
+Strangford Lough Yacht
+1.0
+6460.92
+
+CMG Energy Services Ltd
+6.0
+91986.42
+
+Tobermore Concrete Products Limited
+1.0
+12654.19
+
+Heron Bros Ltd
+4.0
+34635.49
+
+GPH Mushrooms Ltd
+5.0
+158303.34
+
+Dawson Wam Limited
+2.0
+59960.06
+
+Bondelivery NI Ltd
+4.0
+136481.84
+
+Ethril Ltd T/A Beechlawn House Hotel
+1.0
+32642.83
+
+Ewing Farms Ltd
+6.0
+289177.88
+
+Mayobridge Golf Club
+1.0
+5894.37
+
+Kane Engineering Ltd
+1.0
+8154.97
+
+McGarrity Bros Ltd
+1.0
+23475.74
+
+W J Hanna Machinery LTD
+1.0
+24504.12
+
+Natural Waste Management Ltd
+4.0
+166477.43
+
+JSF Builders Ltd
+1.0
+11563.28
+
+John Hogg & Co Ltd
+12.0
+417322.29
+
+Tobin Ltd
+1.0
+34290.95
+
+Button Farm Mushrooms Ltd
+1.0
+48074.96
+
+Dickson Poultry Ltd
+3.0
+71365.06
+
+Woodvale Construction Company Ltd
+3.0
+29960.13
+
+BP McKeefry Developments Ltd
+2.0
+72737.11
+
+R. Thompson & Son Ltd
+1.0
+25926.22
+
+Corriewood Estates LLP
+2.0
+66413.17
+
+Murphy Joinery Ltd
+2.0
+57165.48
+
+Ballyclare Golf Club
+1.0
+58093.46
+
+Galbally Youth & Community Association
+1.0
+19950.96
+
+Bee Bee Farms Ltd
+1.0
+23167.58
+
+Glenvilla Ultimate Dryers Ltd
+2.0
+49088.31
+
+Ecobiomass NI Ltd
+10.0
+476383.18
+
+Noel Smith Ltd
+2.0
+187532.13
+
+Sandhill Properties Ltd
+3.0
+61320.93
+
+Courtyard Properties (NI) Ltd
+1.0
+25714.07
+
+Woodland Kitchens (N.I.) Ltd
+4.0
+74628.33
+
+KMAC LTD
+3.0
+96547.74
+
+Carella Laminate Systems Ltd
+1.0
+6908.97
+
+Randal Livingstone Ltd
+4.0
+142743.22
+
+DRL Energy Ltd
+4.0
+198814.31
+
+Vision Heat Solutions Limited
+8.0
+206076.92
+
+Cap Farms Ltd
+2.0
+124839.71
+
+Mc. Don Peat Supplies Ltd
+1.0
+9132.09
+
+Farmview Dairies Ltd
+1.0
+34574.91
+
+J & M Farms Ltd
+2.0
+68567.71
+
+National Council Of YMCA of Ireland, Greenhill YMCA
+3.0
+41606.64
+
+BS Holdings Ltd
+1.0
+18844.63
+
+Hayburn Wood Products Ltd
+2.0
+87473.49
+
+Drumlea poultry Ltd
+1.0
+10195.16
+
+Burrendale Hotel Ltd
+4.0
+134261.34
+
+Shanes Castle Estates Company Limited
+1.0
+15544.32
+
+Skye Body Repair Ltd
+1.0
+20880.57
+
+Farm Woodlands Ltd
+1.0
+8885.36
+
+McGeary Metals Ltd
+1.0
+13723.48
+
+Glendun Nursing Home Ltd
+1.0
+20865.11
+
+Catmar Holdings Ltd T/A Eddie's Crossroads Bar
+1.0
+7215.01
+
+Baronagh Ltd
+2.0
+53823.08
+
+D&R Moffett Ltd
+3.0
+148628.7
+
+Lisnaskea Hotels Ltd
+1.0
+19783.49
+
+Edengrow Farms Limited
+3.0
+77690.76
+
+Spark Enterprises Ltd
+5.0
+61232.94
+
+Jackson Poultry Ltd
+3.0
+126681.06
+
+Department of Agriculture and Rural Affairs (Loughry College)
+2.0
+11964.84
+
+Hillsborough Parish Church
+2.0
+39251.72
+
+Donaghmore District Community Association (DDCA)
+1.0
+9656.04
+
+L.W. Surphlis & Son Ltd.
+10.0
+358236.27
+
+Sainsbury's (Strand Road)
+1.0
+51611.56
+
+Grove Cottage Farm Ltd
+2.0
+112152.24
+
+Haslett Biofuel Products Ltd
+2.0
+60632.94
+
+Moore Unidrill Ltd
+1.0
+62881.21
+
+Newell Stores (Coalisland) Ltd
+2.0
+30588.23
+
+Corby Biomass Systems Ltd
+8.0
+172980.12
+
+B.McCaffrey & Sons Ltd
+1.0
+39346.99
+
+Gormley Engineering Works Ltd
+1.0
+11041.46
+
+Manola Farm Supplies Ltd
+3.0
+139431.48
+
+Share Discovery Village
+4.0
+67989.55
+
+DWI (NI) Ltd
+2.0
+88868.36
+
+Fourds Limited T/A Bloc Blinds
+2.0
+21764.66
+
+The Irish Landmark Trust Ltd
+1.0
+5547.74
+
+Turfahun Farm Ltd
+3.0
+46342.01
+
+RTC Engineering LTD
+1.0
+38971.42
+
+Wilson Property Ltd
+1.0
+24116.56
+
+Greg Mitchell Motors Ltd
+1.0
+14897.77
+
+Wrights Poultry Ltd
+2.0
+30899.6
+
+Tempo Web Ltd
+1.0
+14417.38
+
+Agricultural and Industrial Services 2012 Limited
+1.0
+21627.16
+
+Creggan Country Park Enterprises Ltd
+1.0
+12016.75
+
+Downshire Arms Hotel Ltd
+1.0
+12598.38
+
+Greystone Joinery and Construction Ltd
+2.0
+45384.18
+
+Bangor Golf Club
+1.0
+38372.56
+
+Grove Mechanical Services Ltd
+1.0
+40266.24
+
+Rossfad Consultancy Services LTD
+1.0
+14105.41
+
+Stephens Catering Equipment Co Ltd
+5.0
+228862.38
+
+MF Chickens LTD
+2.0
+27493.86
+
+Mullan Poultry Ltd
+2.0
+86971.53
+
+RJ Smyth Engineering Ltd.
+2.0
+88228.69
+
+Keenaghan Mushrooms Ltd
+1.0
+26624.75
+
+Altmore Farm Ltd
+3.0
+133685.81
+
+GSM Farms Ltd
+3.0
+219257.87
+
+Armagh Cider Company Ltd
+2.0
+27192.59
+
+ROL Testing Ltd
+1.0
+19873.24
+
+William Bell Tractors Ltd
+1.0
+10972.4
+
+Raymond Turkington Dec Ltd
+1.0
+21305.17
+
+National Trust (Giant's Causeway Visitors' Centre)
+1.0
+8634.47
+
+Lissanoure Castle Ltd
+1.0
+17821.74
+
+Highpoint Adventure Management Ltd t/a Life Adventure
+1.0
+10154.89
+
+Road Safety Contracts Limited
+1.0
+19102.43
+
+McIlroy Farms Limited
+6.0
+513312.78
+
+W & A Nixon & Sons Ltd
+1.0
+5682.95
+
+McAuley Precision Ltd
+4.0
+178783.29
+
+Skea Egg Farms Ltd.
+2.0
+27949.45
+
+Mountain View Farm Ltd
+7.0
+471971.94
+
+Camphill Community Mourne Grange
+1.0
+25231.21
+
+Ballybrocky Poultry Farms Ltd
+9.0
+346633.01
+
+R&M Greenkeeper Ltd
+2.0
+52138.84
+
+Q Mac Silos Limited
+2.0
+55637.12
+
+Linton AG - Industrial Ltd
+1.0
+8502.17
+
+Moore (Unidrill) Ltd
+1.0
+71804.01
+
+Belfast Health & Social Care Trust
+1.0
+47997.81
+
+Lancer Buildings Limited
+3.0
+94054.0
+
+Beggs and Partners Ballymena
+1.0
+20058.97
+
+M Keys Farms Ltd
+2.0
+85234.82
+
+National Trust (Crom Estate)
+1.0
+31564.68
+
+Rhylands Nursing Home Ltd
+1.0
+38204.55
+
+Nevin Electrics Ltd
+1.0
+13173.68
+
+Glenavon House Hotel (1982) Ltd
+2.0
+167110.13
+
+Alexander Scott & Son Ltd
+1.0
+9504.53
+
+Wilson Poultry Ltd
+1.0
+12384.85
+
+McCormick Contracts Ltd
+1.0
+30788.71
+
+MD Electrical Ltd
+2.0
+86836.63
+
+Phillips Heating and Stoves Limited
+1.0
+5859.01
+
+Rice's Supermarket Ltd
+1.0
+18514.51
+
+Meteor Electrical Ltd
+3.0
+57538.14
+
+BF Mulholland Ltd
+1.0
+14759.93
+
+Corbally Poultry Farm Ltd
+5.0
+105224.93
+
+Hillcrest Centre Ltd
+2.0
+87320.21
+
+McMenamin Poultry Ltd
+1.0
+7685.8
+
+NK Coatings Ltd
+2.0
+22711.51
+
+Colloide Engineering Systems Ltd
+1.0
+5438.71
+
+Tullysaran Farms Ltd
+6.0
+294956.31
+
+Corrie's Meats Ltd
+1.0
+24745.29
+
+Green Energy Wind Ltd
+2.0
+12406.06
+
+BMS Technology Ltd
+1.0
+15329.98
+
+Premier Electrics Ltd
+1.0
+31630.67
+
+Linton Environmental Ltd
+1.0
+12568.75
+
+Kernaglee Electrical Services Ltd.
+1.0
+5939.47
+
+R A Irwin And Co Ltd
+5.0
+174576.87
+
+Renewable Heat Generation Limited
+4.0
+194669.59
+
+Ballyrobert Service Station Ltd
+1.0
+44934.83
+
+Ballycastle Homecare Ltd
+2.0
+32159.39
+
+Fir trees Hotel Strabane Ltd
+1.0
+46659.69
+
+Winters Renewables Ltd
+3.0
+132911.35
+
+Hazelburn Poultry Ltd
+2.0
+10420.85
+
+Orchard Mushrooms Ltd
+6.0
+204333.85
+
+McKee's Farm Shop Ltd
+1.0
+41131.57
+
+Hollybush Primary School
+1.0
+29156.08
+
+McAleer Farms Ltd
+4.0
+208554.4
+
+SEK Limited
+2.0
+17654.97
+
+Classic Marble Ltd
+1.0
+39094.3
+
+Dalys Carrickmore Ltd
+1.0
+34352.02
+
+Precision Heating NI Ltd
+1.0
+7582.4
+
+Gradeall International Ltd
+1.0
+32655.18
+
+Johnston Poultry Sales Ltd
+3.0
+135306.11
+
+Oakgrove Cabins Ltd
+1.0
+12168.03
+
+Jungle Paintball Ltd
+2.0
+32825.07
+
+Millar Woodcraft Specialist Joinery Manufacture Ltd.
+2.0
+46692.94
+
+Altmor Limited T/A Valleyview Enterprises - Pig Unit
+1.0
+30440.15
+
+Bridge Mushrooms Ltd
+4.0
+221746.14
+
+Felix McEvoy Ltd
+2.0
+56756.02
+
+Department of Agriculture and Rural Affairs (Greenmount College)
+1.0
+4895.07
+
+Riada NI Limited
+1.0
+15991.46
+
+Carrickcloughan Farming Ltd
+1.0
+12002.5
+
+DS Farms Ltd
+1.0
+8248.35
+
+Tullygoney Engineering & Fabrication Ltd
+1.0
+32761.32
+
+ACL Developments Ltd
+1.0
+7209.13
+
+Supermix Ltd
+3.0
+62148.99
+
+Rosspark Hotel
+1.0
+35148.71
+
+J Stockdale & Son Ltd
+1.0
+20566.49
+
+Vicoran Limited
+1.0
+14008.29
+
+Laurel Chlorination Ltd
+1.0
+5917.3
+
+Kelso Car Sales Ltd.
+2.0
+55979.12
+
+Sallyridge Produce Ltd
+1.0
+12709.08
+
+Sainsbury's (Coleraine)
+1.0
+45146.28
+
+Sayers Engineering Ltd
+1.0
+37476.83
+
+Joseph Barrett and Sons Ltd
+3.0
+73592.78
+
+Creggan Farm Supplies Ltd
+2.0
+80574.1
+
+Augher Castle Limited
+1.0
+15097.56
+
+H&A Mechanical Services Ltd
+1.0
+42825.59
+
+TIC Poultry Ltd
+5.0
+149654.87
+
+All Spares ATVs Ltd
+2.0
+74659.11
+
+Balcas Timber Ltd
+2.0
+17513.55
+
+Sainsbury's (Craigavon)
+1.0
+24221.85
+
+Kilcon Farm Ltd
+2.0
+76274.14
+
+Belfast Indoor Bowls Club
+1.0
+28374.6
+
+Cyreth Ltd T/A Strangford Arms Hotel
+1.0
+29810.41
+
+Drenagh Sawmills Ltd
+8.0
+168251.32
+
+Christian Family Centre NI Ltd.
+1.0
+31014.84
+
+Norhil Poultry Ltd
+1.0
+6750.79
+
+Curtis Developments Ltd T/A Curtis Toyota
+1.0
+5170.9
+
+Corkhill Care Centre
+1.0
+15482.79
+
+Cromer Enterprises Limited
+1.0
+16705.32
+
+McMullan & O'Donnell Ltd
+2.0
+43605.32
+
+Larne Harbour Limited
+2.0
+48995.53
+
+Creative Gardens (NI) Ltd
+2.0
+22866.87
+
+Beechvale Nursing Home Ltd
+1.0
+42898.66
+
+Miller Wholesale Ltd
+1.0
+40225.44
+
+Paul Hobson Ltd
+13.0
+659540.81
+
+M & M Refrigeration Ltd
+1.0
+12081.11
+
+Cloncraig Electrical Ltd T/A JR Lighting
+1.0
+15893.35
+
+Oakgrove Cabins ltd
+1.0
+3538.21
+
+Sam Creith Motors Ltd
+1.0
+11593.0
+
+ARC Healthy Living Centre Ltd
+1.0
+15421.47
+
+Youth With A Mission (NI) Ltd
+2.0
+22844.69
+
+Milltown Gravel Ltd
+3.0
+101141.8
+
+Cross Concrete Flooring Ltd.
+4.0
+107645.97
+
+Moore Concrete Products Ltd
+8.0
+266107.41
+
+O Kane Plumbing and Electrics Limited
+2.0
+18485.43
+
+Irwin Farm Supplies Ltd
+1.0
+15518.7
+
+C&L Mushrooms Ltd
+4.0
+241459.66
+
+Lisburn Golf Club
+1.0
+40897.33
+
+Rowan Renewables Ltd
+1.0
+5959.55
+
+Future Fuels NI Ltd
+4.0
+258031.77
+
+Dundrod Presbyterian Church
+1.0
+14421.57
+
+Raymond Turkington (Decorations) Ltd
+2.0
+21767.08
+
+Eurofab Engineering Structures Ltd
+1.0
+35907.5
+
+National Trust (The Argory)
+2.0
+9454.63
+
+Annagarvey Holdings Ltd
+1.0
+8333.41
+
+Ballyards Charitable Trust Ltd
+1.0
+31483.97
+
+National Trust (Springhill)
+1.0
+4133.9
+
+National Trust (Florence Court)
+1.0
+3148.25
+
+Edengrove Presbyterian Church
+1.0
+9490.41
+
+Meegan Enterprises Ltd
+1.0
+7842.02
+
+Green Energy Engineering (GEE) Ltd
+9.0
+118640.68
+
+Stillago Mushrooms Ltd
+1.0
+32128.45
+
+KSM Farms LTD
+2.0
+81701.88
+
+Rafferty Poultry Ltd
+3.0
+173373.49
+
+Clandeboye Golf Club
+2.0
+49617.16
+
+MIGC Ltd
+1.0
+11609.56
+
+JS Dunlop Ltd
+1.0
+20834.49
+
+O'Neill's Irish International Sportswear Ltd
+6.0
+32668.55
+
+Newell Stores (Dungannon) Ltd
+2.0
+40629.44
+
+Hebron Free Presbyterian Church
+2.0
+58938.06
+
+Basil Knipe Electrics Ltd
+1.0
+19132.1
+
+Cabragh House Farm ltd
+4.0
+213145.04
+
+T.C. Autos LTD
+1.0
+30367.17
+
+Galgorm Castle Estates Ltd
+1.0
+39131.71
+
+Sainsbury's (Sprucefield)
+1.0
+53345.91
+
+Ultra Spreader International Ltd T/A Ultraplant Ltd
+1.0
+23341.8
+
+M Beattie & Son LTD.
+4.0
+128356.85
+
+RW Pierce Group Ltd
+1.0
+57728.22
+
+FG Drying Ltd
+6.0
+293350.66
+
+Ballyholland Development Association
+1.0
+10212.9
+
+CRANN ENERGY LTD
+1.0
+2057.8
+
+Daly Poultry Ltd.
+1.0
+15795.0
+
+Valley Services (NI) Ltd
+6.0
+305629.59
+
+J F Irvine Sawmills Limited
+2.0
+46052.93
+
+Creative Logic Sol Limited
+1.0
+7722.66
+
+Alternative Heat Ltd
+3.0
+29032.51
+
+Oakra Hardwood Flooring ltd
+1.0
+3045.65
+
+HolyHill District Heating System
+1.0
+18110.26
+
+Dennison Commercials Ltd
+11.0
+343734.72
+
+Scott and Ewing LTD
+4.0
+55586.01
+
+Cirrus Property Developments Ltd
+1.0
+7657.13
+
+Solmatix Ltd
+1.0
+5227.45
+
+Islandbawn Store Ltd
+1.0
+27822.92
+
+Home Farm Mushrooms Ltd
+2.0
+38292.59
+
+Jeda Power Ltd
+1.0
+31972.97
+
+MCM Electrical Contracts Ltd
+1.0
+5495.24
+
+Millton Mushrooms Ltd
+1.0
+38638.25
+
+Easibility Showers Ltd
+1.0
+51006.83
+
+National Trust (Springhill House)
+1.0
+22717.76
+
+Shankill Parish Caring Association
+1.0
+30274.08
+
+John Mulholland Motors Ltd
+1.0
+7493.48
+
+CM Skips Limited
+1.0
+42022.36
+
+Cardwell Brothers Engineering Ltd
+3.0
+93476.23
+
+Korwind Ltd
+1.0
+5765.19
+
+Hampton Conservatories Ltd
+4.0
+28305.9
+
+The Beeches P&T Services Ltd
+1.0
+34120.95
+
+Clinty Chemicals Limited
+1.0
+62572.8
+
+Sandvik Limited T/As Sandvik Construction Mobile Crushers and Screens
+1.0
+9683.68
+
+Fairlawns Care Home Ltd
+1.0
+57711.01
+
+Charles Hurst Ltd
+10.0
+257127.67
+
+Sainsbury's (Bangor Balloo)
+1.0
+45127.8
+
+Culmore Energy
+1.0
+4332.12
+
+Hugh Turner T/A Turner Electrical (NI) Ltd
+1.0
+26845.14
+
+The Pallet Centre Limited
+1.0
+19317.14
+
+Merit Retail Ltd T/A Kilwee Care Home
+1.0
+20736.94
+
+Spa Nursing Homes Ltd (Redburn Nursing Home)
+1.0
+32891.42
+
+Electro Mech Agri Ltd
+2.0
+38771.18
+
+BP Mc Keefry Ltd
+1.0
+19386.06
+
+Spa Nursing Homes Ltd (Carryduff Nursing Home)
+1.0
+20622.86
+
+Foyle Golf Centre
+1.0
+30167.8
+
+Cornamaddy Farms Ltd
+3.0
+143264.22
+
+CHP Mechanical Services Ltd
+2.0
+21001.68
+
+Smyth Green Energy Ltd
+1.0
+30364.69
+
+Hegan Farms Ltd
+8.0
+351969.11
+
+Robinson NI Ltd
+1.0
+47824.74
+
+Sean & Kathleen Kerr Ltd
+4.0
+266933.0
+
+Cloughbane Farm Foods Ltd
+1.0
+5123.75
+
+Donnell & Ellis Heavy Haulage Ltd
+3.0
+128390.98
+
+McKinstry Skip Hire Ltd
+1.0
+16752.55
+
+Easteden Limited
+2.0
+69382.25
+
+SDC Trailers Ltd
+4.0
+54709.01
+
+Shergrim Recycling Ltd
+4.0
+143536.46
+
