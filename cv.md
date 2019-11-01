@@ -27,8 +27,8 @@ This was a project that attempted to investigate trust and reputation within the
 **Operating Systems**  
 
 - Linux
-- Windows
 - OS X
+- Windoze
 
 **Programming Languages**
 
@@ -43,7 +43,10 @@ This was a project that attempted to investigate trust and reputation within the
 - UART / SPI / I2C
 - RTOS (µC, FreeRTOS)
 - Communication Protocol Design & Implementation
-- CoAP / M2M
+- MQTT / CoAP / M2M
+- Wi-Fi Connectivity
+- Bluetooth Low Energy
+- Mesh Technologies (Bluetooth Mesh, Thread)
 - Low Power / Constrained Design
 - Boot-Loader Design
 - Multi-Threaded Design
@@ -52,12 +55,13 @@ This was a project that attempted to investigate trust and reputation within the
 
 **Tools**
 
-- SVN/Git
+- Git
 - IAR Embedded Workbench
 - Qt / PyQt
 - Valgrind
-- GCC/GDB
-- Unity / Ceedling / CMock
+- GCC / GDB
+- Docker
+- Balena.io
 - Putty
 - Advanced Serial Port Monitor
 - Wireshark / AirPCAP
