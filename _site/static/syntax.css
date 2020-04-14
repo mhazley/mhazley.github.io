@@ -69,7 +69,7 @@
   src: url(fonts/InputMono-Regular.ttf);
 }
 
-body {
+body, input {
   font-family: input-t;
 }
 
@@ -77,3 +77,4 @@ h1,h2,h3, strong {
   font-family: input-r;
   color: #d9d9d9;
 }
+

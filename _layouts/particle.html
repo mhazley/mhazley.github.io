@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <title>@matthazley
+        {% if page.title %}
+            | {{page.title}}
+        {% endif %}
+    </title>
+
+    <!-- JQUERY -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+    <!-- JS COOKIE -->
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+
+    <!-- PARTICLE -->
+    <script src="https://cdn.jsdelivr.net/npm/particle-api-js@8/dist/particle.min.js"></script>
+
+    <!-- Our Javascript code for this page -->  
+    <script type="text/javascript" src="/static/js/fermenter.js"></script>
+
+    <!-- Particle CSS -->
+    <link rel="stylesheet" href="/static/particle.css">
+    <!-- css -->  
+    <link rel="stylesheet" href="/static/bootstrap.min.css" type="text/css" media="screen" title="Twitter Bootstrap" charset="utf-8">
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="/static/syntax.css">
+</head>
+<body>
+    <div id="stylistic-bar-of-awesome">&nbsp;</div>
+    <div id="wrapper" class="container">
+        <div class="row">
+            <div class="span13">
+                <div class="span9">
+                    {% if page.title %} <h2> {{page.title}} </h2>{% endif %}
+                    {{ content }}
+                </div>
+                <div class="span2">
+                    <h2><a href="/">@matthazley</a></h2>
+                    <ul class="unstyled archive">
+                    <li><a href="/about.html" title="About">About</a></li>
+                    <li><a href="/cv.html" title="CV">CV</a></li>
+                    <li><a href="https://github.com/mhazley" title="catsby on Github.com" target="_blank">Github</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
