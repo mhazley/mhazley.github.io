@@ -20,13 +20,16 @@ OpenFX Award for Engineering Software Excellence, *EEECS Faculty, Queen's Univer
 ### Tool Box
 
 _Programming_  
-C, Python, C++  
+C, Python, C++ (recreational!)  
 <br>
 _Technologies_  
-RF Coding/Decoding, UART/SPI/I2C, TCP/UDP, RTOS(µC, FreeRTOS), M2M(MQTT/CoAP), Protocol Design & Implementation, Wi-Fi Connectivity, Bluetooth Low Energy, Mesh Technologies(Bluetooth Mesh, Thread), Smart-Home, Low Power Design, Boot Loaders, Multi-Threaded Design, DSP Filtering, Agile/SCRUM  
+UART/SPI/I2C, TCP/UDP, RTOS(µC, FreeRTOS), M2M(MQTT/CoAP), Protocol Design & Implementation, Wi-Fi Connectivity, Bluetooth Low Energy, Smart-Home, Low Power Design, Boot Loaders, Multi-Threaded Design, DSP Filtering, Agile/SCRUM  
 <br>
 _Tools_  
 Git, IAR, GCC/GDB, Valgrind, Docker, Balena.io, Wireshark, Arbitrary Waveform Generator, Oscilloscope, Logic Analyser, Spectrum Analyser, Soldering Iron
+
+_Currently Learning_  
+Bluetooth Mesh, Thread, MQTT-SN, Zephyr, Apple ADK
 
 ### Occupation History
 
